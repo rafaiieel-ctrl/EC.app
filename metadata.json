@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Estudo por questões",
+  "description": "An application to track and review exam questions using the spaced repetition method to improve long-term memory retention. All data is stored locally in your browser.",
+  "requestFramePermissions": []
+}
